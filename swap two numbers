@@ -1,0 +1,9 @@
+x = 10
+y = 5
+
+x = temp
+x = y
+y = temp
+
+print('the value of x after swaping: {}'.format(x))
+peint('the value of y after swaping: {}'.format(y))
